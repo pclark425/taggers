@@ -1,6 +1,6 @@
 # Taggers
 
-A tagger is a function from a sentence to a list of `Type`s.  A `Type`
+A tagger is a function from a sentence to a long list of `Type`s.  A `Type`
 consists of a name and the token interval it came from in the source
 sentence.
 
